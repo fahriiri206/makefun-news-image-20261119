@@ -4,7 +4,7 @@
 
 # Sum up 19 November's world news in one image
 
-This is the entry for make.fun's "Sum up 19 November's world news in one image" competition, covering the world news of Thursday 19 November 2026: a newspaper-style page with a masthead naming the day, an illustrated lead story (the first Trump–Xi–Putin trilateral at APEC in Shenzhen) and region-coloured briefs across Europe, the Middle East, the Americas, Asia, Africa and the economy. The day's stories are named in the picture itself.
+This is the entry for make.fun's "Sum up 19 November's world news in one image" competition, covering the world news of Thursday 19 November 2026. The finished page is a newspaper-style front page named "The World Today", whose masthead carries Thursday 19 November 2026 in large type. It has an illustrated lead on the first Trump–Xi–Putin trilateral at APEC in Shenzhen, three illustrated story cards (GTA VI's launch, Anthropic's $83 IPO and the third Crimea bridge strike), a world map with keyed event markers, four figure boxes and thirty briefs across Europe, the Middle East, Asia, the Americas and Africa. The day's stories are named in the picture itself.
 
 ## Run it
 
